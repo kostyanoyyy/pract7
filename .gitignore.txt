@@ -1,0 +1,31 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Каталоги сборки
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+Makefile
+cmake_install.cmake
+*~
+
+# Скомпилированные файлы
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+
+# Логи
+*.log
+
+# Временные файлы текстовых редакторов
+*.swp
+*.bak
+*.tmp
+
+# Для игнорирования каталога тестов или дополнительных файлов
+/tests/
