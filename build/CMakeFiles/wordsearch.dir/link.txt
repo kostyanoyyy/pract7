@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/wordsearch.dir/src/wordsearch.c.o -o wordsearch 
