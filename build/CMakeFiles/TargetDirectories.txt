@@ -1,0 +1,3 @@
+/home/vboxuser/Desktop/pr7/build/CMakeFiles/wordsearch.dir
+/home/vboxuser/Desktop/pr7/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/Desktop/pr7/build/CMakeFiles/rebuild_cache.dir
